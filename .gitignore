@@ -1,0 +1,7 @@
+*.jar
+bin/02NetWorkSample.zip
+*.properties
+*.log
+*.class
+*.zip
+bin/Manifest.mf
