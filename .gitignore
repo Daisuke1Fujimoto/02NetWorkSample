@@ -5,3 +5,5 @@ bin/02NetWorkSample.zip
 *.class
 *.zip
 bin/Manifest.mf
+/bin
+/jar
